@@ -1,0 +1,13 @@
+[{
+	"title": "Water cooler on 5th floor is broken",
+	"body": "Please use the water cooler on the 6th floor",
+	"link": "http://google.com"
+},{
+	"title": "Build scheduled for 2pm today",
+	"body": "Make sure all your changes are committed to the Git Repo",
+	"link": "http://github.com"
+},{
+	"title": "JS Workshop Today",
+	"body": "Come improve your JavaScript skills",
+	"link": "http://jsconf.com"
+}]
