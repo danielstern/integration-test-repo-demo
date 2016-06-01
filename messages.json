@@ -3,11 +3,11 @@
 	"body": "Please use the water cooler on the 6th floor",
 	"link": "http://google.com"
 },{
-	"title": "Build scheduled for 9pm today",
+	"title": "Build scheduled for 11pm today",
 	"body": "Make sure all your changes are committed to the Git Repo",
 	"link": "http://github.com"
 },{
-	"title": "JS Workshop Today",
-	"body": "Come improve your JavaScript skills",
+	"title": "CSS Workshop Today",
+	"body": "Come improve your front end skills!",
 	"link": "http://jsconf.com"
 }]
