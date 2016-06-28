@@ -4,7 +4,7 @@ console.log("Running webapp...");
 let Express = require('express');
 let app = new Express();
 let port = process.env.PORT || 80;
-app.use(require('body-parser').urlencoded());
+app.use(require('body-parser').urlencoded({extended:true}));
 app.use(require('body-parser').json());
 
 app.use(Express.static('./app'));
